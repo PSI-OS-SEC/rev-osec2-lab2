@@ -7,7 +7,7 @@ Encender y preparar el ambiente para la calificación.
 ### Política de contraseñas
 
 * Cree un usuario llamado ```lab2-test```
-* Intente colocar la contraseña para el usuario lab6 --> ```sl33p30F00dumass!```
+* Intente colocar la contraseña para el usuario ```lab2-test``` --> ```sl33p30F00dumass!```
 * No debe ser posible y deberá mostrar un error relacionado al diccionario
 
 
